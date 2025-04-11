@@ -1,1 +1,2 @@
 Funcionalidad base para productos: agregar, editar, eliminargit
+Agregado diseño de botones para productos: Agregar, Editar, Eliminar.

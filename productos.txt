@@ -1,1 +1,1 @@
-Funcionalidad base para productos: agregar, editar, eliminar.
+Funcionalidad base para productos: agregar, editar, eliminargit

@@ -1,0 +1,1 @@
+Funcionalidad base para productos: agregar, editar, eliminar.

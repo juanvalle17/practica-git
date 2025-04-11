@@ -1,2 +1,0 @@
-Mi primer archivo con git
-Estoy practicando ramas 🧪
